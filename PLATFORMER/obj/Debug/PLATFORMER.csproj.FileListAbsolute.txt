@@ -1,0 +1,10 @@
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\bin\Debug\PLATFORMER.exe.config
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\bin\Debug\PLATFORMER.exe
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\bin\Debug\PLATFORMER.pdb
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\obj\Debug\PLATFORMER.csproj.AssemblyReference.cache
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\obj\Debug\PLATFORMER.Form1.resources
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\obj\Debug\PLATFORMER.Properties.Resources.resources
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\obj\Debug\PLATFORMER.csproj.GenerateResource.cache
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\obj\Debug\PLATFORMER.csproj.CoreCompileInputs.cache
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\obj\Debug\PLATFORMER.exe
+C:\Users\itzth\source\repos\PLATFORMER\PLATFORMER\obj\Debug\PLATFORMER.pdb
